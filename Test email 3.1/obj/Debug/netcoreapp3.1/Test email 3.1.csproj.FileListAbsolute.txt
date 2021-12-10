@@ -1,0 +1,28 @@
+C:\Users\Mohammad\source\repos\Test email 3.1\Test email 3.1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Mohammad\source\repos\Test email 3.1\Test email 3.1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Mohammad\source\repos\Test email 3.1\Test email 3.1\bin\Debug\netcoreapp3.1\Test email 3.1.exe
+C:\Users\Mohammad\source\repos\Test email 3.1\Test email 3.1\bin\Debug\netcoreapp3.1\Test email 3.1.deps.json
+C:\Users\Mohammad\source\repos\Test email 3.1\Test email 3.1\bin\Debug\netcoreapp3.1\Test email 3.1.runtimeconfig.json
+C:\Users\Mohammad\source\repos\Test email 3.1\Test email 3.1\bin\Debug\netcoreapp3.1\Test email 3.1.runtimeconfig.dev.json
+C:\Users\Mohammad\source\repos\Test email 3.1\Test email 3.1\bin\Debug\netcoreapp3.1\Test email 3.1.dll
+C:\Users\Mohammad\source\repos\Test email 3.1\Test email 3.1\bin\Debug\netcoreapp3.1\Test email 3.1.pdb
+C:\Users\Mohammad\source\repos\Test email 3.1\Test email 3.1\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\Mohammad\source\repos\Test email 3.1\Test email 3.1\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\Mohammad\source\repos\Test email 3.1\Test email 3.1\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Mohammad\source\repos\Test email 3.1\Test email 3.1\obj\Debug\netcoreapp3.1\Test email 3.1.csproj.AssemblyReference.cache
+C:\Users\Mohammad\source\repos\Test email 3.1\Test email 3.1\obj\Debug\netcoreapp3.1\Test email 3.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammad\source\repos\Test email 3.1\Test email 3.1\obj\Debug\netcoreapp3.1\Test email 3.1.AssemblyInfoInputs.cache
+C:\Users\Mohammad\source\repos\Test email 3.1\Test email 3.1\obj\Debug\netcoreapp3.1\Test email 3.1.AssemblyInfo.cs
+C:\Users\Mohammad\source\repos\Test email 3.1\Test email 3.1\obj\Debug\netcoreapp3.1\Test email 3.1.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad\source\repos\Test email 3.1\Test email 3.1\obj\Debug\netcoreapp3.1\Test email 3.1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mohammad\source\repos\Test email 3.1\Test email 3.1\obj\Debug\netcoreapp3.1\staticwebassets\Test email 3.1.StaticWebAssets.Manifest.cache
+C:\Users\Mohammad\source\repos\Test email 3.1\Test email 3.1\obj\Debug\netcoreapp3.1\staticwebassets\Test email 3.1.StaticWebAssets.xml
+C:\Users\Mohammad\source\repos\Test email 3.1\Test email 3.1\obj\Debug\netcoreapp3.1\scopedcss\bundle\Test email 3.1.styles.css
+C:\Users\Mohammad\source\repos\Test email 3.1\Test email 3.1\obj\Debug\netcoreapp3.1\Test email 3.1.RazorTargetAssemblyInfo.cache
+C:\Users\Mohammad\source\repos\Test email 3.1\Test email 3.1\obj\Debug\netcoreapp3.1\Test email 3.1.dll
+C:\Users\Mohammad\source\repos\Test email 3.1\Test email 3.1\obj\Debug\netcoreapp3.1\Test email 3.1.pdb
+C:\Users\Mohammad\source\repos\Test email 3.1\Test email 3.1\obj\Debug\netcoreapp3.1\Test email 3.1.genruntimeconfig.cache
+C:\Users\Mohammad\source\repos\Test email 3.1\Test email 3.1\bin\Debug\netcoreapp3.1\FluentAssertions.dll
+C:\Users\Mohammad\source\repos\Test email 3.1\Test email 3.1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Mohammad\source\repos\Test email 3.1\Test email 3.1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mohammad\source\repos\Test email 3.1\Test email 3.1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
